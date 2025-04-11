@@ -1,16 +1,37 @@
-# bookloop
+📚 BookLoop – V1
+Application mobile Flutter pour lecteurs connectés (livres, webtoons, etc.) avec échanges et interactions.
 
-A new Flutter project.
+🚀 Présentation
+BookLoop est une application mobile qui connecte des lecteurs passionnés autour de livres, romans, webtoons, et autres contenus littéraires.
+Cette première version se concentre sur la découverte, le partage, et l’échange de contenus entre utilisateurs via une interface simple et chaleureuse.
 
-## Getting Started
+🛠️ Tech Stack
+Flutter (Front-end cross-platform Android/iOS)
 
-This project is a starting point for a Flutter application.
+Firebase (Back-end + Auth + Firestore + Storage)
 
-A few resources to get you started if this is your first Flutter project:
+✨ Fonctionnalités de la V1 (En cours de développement)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔐 Authentification Firebase (inscription / connexion)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🏠 Page d’accueil avec contenus recommandés (livres, webtoons, etc.)
+
+🔍 Recherche de contenus par mot-clé, genre ou format
+
+📖 Fiche de contenu avec résumé, image, lien externe et options d’interaction
+
+❤️ Ajouter aux favoris
+
+💬 Commenter et échanger avec d'autres lecteurs
+
+📤 Proposer un contenu à partager (formulaire de dépôt avec image, lien, etc.)
+
+🔁 Système d’échange entre lecteurs (option activable lors de l'ajout)
+
+👤 Profil utilisateur avec bibliothèque perso, contenus proposés, bio
+<img width="124" alt="image" src="https://github.com/user-attachments/assets/4f2717e9-81a0-470c-a8b2-25f6122f0ba8" />
+<img width="122" alt="image" src="https://github.com/user-attachments/assets/a4aaf83f-c399-44ca-a56b-9bc5029a66ef" />
+<img width="124" alt="image" src="https://github.com/user-attachments/assets/ded97ab6-4ce7-44d7-b189-6a12fbc454fc" />
+
+
+
